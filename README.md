@@ -4,7 +4,7 @@
 
 The code was written based on the instruction of this assignment
 
-Read training and test dataset into R environment. Read variable names into R envrionment. Read subject index into R environment.
+**Read** training and test dataset into R environment. Read variable names into R envrionment. Read subject index into R environment.
 
 Merges the training and the test sets to create one data set. Use command rbind to combine training and test set
 Extracts only the measurements on the mean and standard deviation for each measurement. Use grep command to get column indexes for variable name contains "mean()" or "std()"
