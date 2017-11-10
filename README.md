@@ -1,6 +1,6 @@
 # Week4 Getting & Cleaning Data - Assignment
-# 
-Week 4 of Getting and Cleaning Data Coursera course.
+
+##Week 4 of Getting and Cleaning Data Coursera course.
 
 The code was written based on the instruction of this assignment
 
